@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-de-un-recuerdo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Calor de un recuerdo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-de-un-recuerdo/) |
+| **Get License** | [Request Licensing for Calor de un recuerdo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-de-un-recuerdo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3642)
 
 ---
 
