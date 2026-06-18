@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Calor de un recuerdo
+
+This log tracks the cryptographic history and versioning for the song **Calor de un recuerdo** (calor-de-un-recuerdo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T02:23:31.447208 | `v1` | `86e6b09db2673d2a246bf6ddc5eabb5339e3ef052ae8f9d5876a918651165a05` | `09113585b6782c438c8e7e8d4cb60633c8e3e13695f0bb9a4230246ba70ab836` | `2026-06-19_calor-de-un-recuerdo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
