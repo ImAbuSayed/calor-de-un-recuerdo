@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-de-un-recuerdo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Calor de un recuerdo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-de-un-recuerdo/) |
+| **Get License** | [Official Music Licensing for Calor de un recuerdo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-de-un-recuerdo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú me miras y la disco entera se detiene
+> Ese fuego en tus labios, mami, me mantiene
+> Quiero sentir el calor de un recuerdo esta noche
+> You drive me crazy, sin miedo a que el tiempo derroche
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
